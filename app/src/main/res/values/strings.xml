@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">API Project</string>
+    <string name="result_will_be_shown_here">Result will be shown here</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="upgrading_your_password_security">Upgrading Your Password Security</string>
+</resources>
